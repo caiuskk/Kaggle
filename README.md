@@ -182,3 +182,5 @@ WriteUp 需要带有预处理过程，从你能下载到的原始数据开始，
 请放在`/competitions/{分类}/{名称}`目录下。
 
 其中分类一共有六个，请见上面，名称是 URL 中`/c/`后面的部分。
+
+# this is a info test for github
